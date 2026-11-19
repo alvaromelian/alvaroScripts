@@ -1,0 +1,8 @@
+--- INFORME DEL SISTEMA ---
+Fecha: Thu Nov 19 05:44:36 WET 2026
+Usuario actual: alvaro
+Directorio actual: /home/alvaro/alvaroscripts
+
+--- Espacio libre en disco ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  2.5G  954G   1% /
